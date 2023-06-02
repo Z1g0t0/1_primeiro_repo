@@ -50,3 +50,8 @@ def soma( a, b ):
    return a + b
 ```
 
+## Tasklist:
+
+- [x] SCRUM
+- [x] Git
+- [ ] Linux
