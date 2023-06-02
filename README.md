@@ -41,3 +41,12 @@ _**Ambos**_
 [Google](https://www.google.com)
 
 [Udemy](https://wwww.udemy.com)
+
+
+## Código:
+
+'''
+def soma( a, b ):
+   return a + b
+'''
+
