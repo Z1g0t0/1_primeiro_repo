@@ -45,8 +45,8 @@ _**Ambos**_
 
 ## Código:
 
-'''
+```
 def soma( a, b ):
    return a + b
-'''
+```
 
