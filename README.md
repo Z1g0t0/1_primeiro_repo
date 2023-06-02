@@ -31,3 +31,13 @@ _**Ambos**_
 ### Local:
 
 ![Logo GitHub](img/github_cat.png)
+
+### Externo:
+
+![Logo AWS](https://www.w3schools.com/aws/images/awslogo.png)
+
+## Links:
+
+[Google](https://www.google.com)
+
+[Udemy](https://wwww.udemy.com)
